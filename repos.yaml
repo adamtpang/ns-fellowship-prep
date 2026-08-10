@@ -1,0 +1,16 @@
+# repos.yaml v0 — see github.com/adamtpang/repo-connect
+repo: ns-fellowship-prep
+is: A free, unofficial readiness checklist for the Network School Fellowship's 4-stage process (online form, Zoom interview, in-person exam, decision). Standalone static site, zero dependencies.
+url: https://adamtpang.github.io/ns-fellowship-prep/
+cluster: ns-space
+
+provides:
+  - id: fellowship-checklist-content
+    what: the original 4-stage, 20-item readiness checklist content (stage descriptions and per-item criteria) for the NS Fellowship process, ported into ness.city's /fellowship-prep page
+    at: public/index.html
+
+stack: [html, css, javascript]
+
+kin:
+  - repo: ness.city
+    why: the checklist content from this repo was ported into ness.city at /fellowship-prep so it is reachable on the main community-facing site under ness.city's own design system; this repo remains the standalone, attributed origin

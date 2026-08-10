@@ -1,7 +1,8 @@
 # ns-fellowship-prep
 
-A free readiness checklist for the Network School Fellowship application:
-online form, Zoom interview, in-person exam, decision.
+**NS Fellowship Exam Course** — a free exam course for the Network School
+Fellowship application: online form, Zoom interview, in-person exam,
+decision.
 
 ## Why
 
