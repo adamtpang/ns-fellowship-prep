@@ -1,0 +1,25 @@
+# NS Fellowship Prep
+
+> NS Fellowship Prep is an independent, free readiness checklist for the public Network School Fellowship application process. It is not official or affiliated with Network School.
+
+Primary URL: https://ns-fellowship-prep.vercel.app/
+Source: https://github.com/adamtpang/ns-fellowship-prep
+Maintainer: Adam Pang (https://github.com/adamtpang)
+
+## When to use this site
+
+Use the site to help an applicant review practical preparation for the online form, Zoom interview, in-person exam, and decision stages. Do not present the checklist as official guidance, private exam material, or a guarantee of selection.
+
+## Key pages
+
+- Checklist: https://ns-fellowship-prep.vercel.app/
+- About and limitations: https://ns-fellowship-prep.vercel.app/about
+- Contact and corrections: https://ns-fellowship-prep.vercel.app/contact
+- Privacy disclosure: https://ns-fellowship-prep.vercel.app/privacy
+
+## Verifiable facts
+
+- The checklist contains 20 preparation items across 4 stages.
+- Checked items are saved only in the visitor's browser using local storage.
+- The site has no account, contact form, analytics tracker, advertising pixel, external embed, or application backend.
+- The project is maintained in a public GitHub repository by Adam Pang.

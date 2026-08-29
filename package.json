@@ -1,0 +1,11 @@
+{
+  "name": "ns-fellowship-prep",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/sync-public.mjs",
+    "test": "node --test",
+    "test:production": "node scripts/production-smoke.mjs"
+  }
+}
